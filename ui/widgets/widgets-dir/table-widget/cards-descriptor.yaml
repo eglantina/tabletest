@@ -1,0 +1,6 @@
+code: table-section
+titles: 
+  en: Sample table Section Template
+  it: Semplice Esempio Template
+group: free
+customUiPath: table.ftl
