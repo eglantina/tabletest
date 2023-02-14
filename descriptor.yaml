@@ -2,5 +2,5 @@ code: ent-prj-tmpl-bundle
 description: Template for ent projects
 components:
   widgets:
-    - ui/widgets/widgets-dir/cards-widget/cards-descriptor.yaml
+    - ui/widgets/widgets-dir/table-widget/table-descriptor.yaml
 
